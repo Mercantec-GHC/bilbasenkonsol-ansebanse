@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\bilbasenkonsol-ansebanse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}|BilbasenKonsol.csproj|c:\\users\\admin\\documents\\github\\bilbasenkonsol-ansebanse\\bilbasenkonsol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}|BilbasenKonsol.csproj|solutionrelative:bilbasenkonsol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}|BilbasenKonsol.csproj|c:\\users\\admin\\documents\\github\\bilbasenkonsol-ansebanse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}|BilbasenKonsol.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -14,7 +10,11 @@
       "AbsoluteMoniker": "D:0:0:{D4ED5C53-7B46-4196-951E-C192F8F41CBD}|..\\ClassDM\\Classses.csproj|c:\\users\\admin\\documents\\github\\classdm\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}|BilbasenKonsol.csproj|c:\\users\\admin\\documents\\github\\bilbasenkonsol-ansebanse\\bilbasenkonsol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DEDC90C4-CEA8-493B-901E-78CCFA3FF02A}|BilbasenKonsol.csproj|solutionrelative:bilbasenkonsol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4ED5C53-7B46-4196-951E-C192F8F41CBD}|..\\ClassDM\\Classses.csproj|c:\\users\\admin\\documents\\github\\classdm\\classses.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Classses",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\ClassDM\\Classses.csproj",
+              "RelativeDocumentMoniker": "..\\ClassDM\\Classses.csproj",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\ClassDM\\Classses.csproj",
+              "RelativeToolTip": "..\\ClassDM\\Classses.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T14:20:25.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\bilbasenkonsol-ansebanse\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\bilbasenkonsol-ansebanse\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:32:45.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BilbasenKonsol.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\bilbasenkonsol-ansebanse\\BilbasenKonsol.csproj",
               "RelativeDocumentMoniker": "BilbasenKonsol.csproj",
@@ -41,38 +67,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\ClassDM\\Car.cs",
               "RelativeDocumentMoniker": "..\\ClassDM\\Car.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\ClassDM\\Car.cs",
               "RelativeToolTip": "..\\ClassDM\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAvwBQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T12:37:30.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Car.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Car.cs",
-              "ToolTip": "C:\\Users\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Car.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\MAGS\\Documents\\GitHub\\Class - Domain Models\\Car.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T12:32:45.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\bilbasenkonsol-ansebanse\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\bilbasenkonsol-ansebanse\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACEBAAAAAAAAAAAQwCwBAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T12:32:45.45Z"
+              "WhenOpened": "2024-03-05T12:37:30.59Z",
+              "EditorCaption": ""
             }
           ]
         }
