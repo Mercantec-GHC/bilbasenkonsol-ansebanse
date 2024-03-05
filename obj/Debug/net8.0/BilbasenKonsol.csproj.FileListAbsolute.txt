@@ -17,3 +17,22 @@ C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\Class Domain Mode
 C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\bin\Debug\net8.0\Class Domain Models.pdb
 C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.csproj.AssemblyReference.cache
 C:\Users\MAGS\Documents\GitHub\BilbasenKonsol\obj\Debug\net8.0\BilbasenKonsol.csproj.CopyComplete
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\obj\Debug\net8.0\BilbasenKonsol.dll
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\obj\Debug\net8.0\refint\BilbasenKonsol.dll
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\obj\Debug\net8.0\BilbasenKonsol.pdb
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\bin\Debug\net8.0\BilbasenKonsol.exe
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\bin\Debug\net8.0\BilbasenKonsol.deps.json
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\bin\Debug\net8.0\BilbasenKonsol.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\bin\Debug\net8.0\BilbasenKonsol.dll
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\bin\Debug\net8.0\BilbasenKonsol.pdb
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\bin\Debug\net8.0\Classses.dll
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\bin\Debug\net8.0\Classses.pdb
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\obj\Debug\net8.0\BilbasenKonsol.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\obj\Debug\net8.0\BilbasenKonsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\obj\Debug\net8.0\BilbasenKonsol.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\obj\Debug\net8.0\BilbasenKonsol.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\obj\Debug\net8.0\BilbasenKonsol.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\obj\Debug\net8.0\BilbasenKonsol.sourcelink.json
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\obj\Debug\net8.0\Bilbasen.05310A7B.Up2Date
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\obj\Debug\net8.0\BilbasenKonsol.genruntimeconfig.cache
+C:\Users\admin\Documents\GitHub\bilbasenkonsol-ansebanse\obj\Debug\net8.0\ref\BilbasenKonsol.dll
