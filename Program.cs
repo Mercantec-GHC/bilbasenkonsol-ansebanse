@@ -282,7 +282,7 @@ public static void CarsFrom80_99(List<Car> list)
 
 //Torsdag:
 //Jeres bilsægler side, vil nu gerne udvide til både at have benzin/diesel biler, elbiler og motercykler, 
-//de skal bruge e klasse hver og i skal lave en klasse somde alle sammen arver fra.
+//De skal bruge en klasse hver og i skal lave en klasse som de alle sammen arver fra.
 //I bestemmmer selv, om det er en abstrakt klasse eller bare en normal klasse som de andre arver.
 //her er det vigtigt at bruge konceptere fra abstraktion og overveje, hvad der skal i hver klasse!
 

@@ -29,15 +29,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Classses",
+              "Title": "Classses.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\ClassDM\\Classses.csproj",
               "RelativeDocumentMoniker": "..\\ClassDM\\Classses.csproj",
               "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\ClassDM\\Classses.csproj",
               "RelativeToolTip": "..\\ClassDM\\Classses.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-05T14:20:25.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T14:20:25.833Z"
             },
             {
               "$type": "Document",
@@ -47,7 +46,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\bilbasenkonsol-ansebanse\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKQAAAAAAAAA",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAAABwBAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T12:32:45.45Z",
               "EditorCaption": ""
@@ -62,8 +61,7 @@
               "RelativeToolTip": "BilbasenKonsol.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-05T12:58:42.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T12:58:42.982Z"
             },
             {
               "$type": "Document",
@@ -75,8 +73,7 @@
               "RelativeToolTip": "..\\ClassDM\\Car.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAvwBQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T12:37:30.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T12:37:30.59Z"
             }
           ]
         }
